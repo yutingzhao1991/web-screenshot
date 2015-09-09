@@ -1,0 +1,16 @@
+{
+  "name": "web-screenshot",
+  "version": "1.0.0",
+  "description": "A screenshot tool for web page.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "debug": "node-dev index.js"
+  },
+  "author": "Tingzhao Yu",
+  "dependencies": {
+    "express": "~4.12.3",
+    "pageres": "~1.3.0",
+    "underscore": "~1.5.2"
+  }
+}
