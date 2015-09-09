@@ -17,7 +17,7 @@ npm install
 npm start
 ```
 
-Then use can visit http://127.0.0.1:8099/screenshot?url=www.iqiyi.com to get a screenshot for baidu.
+Then use can visit http://127.0.0.1:8099/screenshot?url=www.iqiyi.com to get a screenshot for iqiyi main page.
 
 API
 ---
